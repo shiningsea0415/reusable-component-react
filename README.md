@@ -47,19 +47,3 @@ yarn install OR npm install
 * [React](https://github.com/facebook/create-react-app)
 * [GitHub](https://github.com)
 * [yarn](https://classic.yarnpkg.com/en/)
-
-## Contributing :pushpin:
-
-Please read [CONTRIBUTING.md](https://github.com/iamdarshshah/react-reusable-components/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Authors :memo:
-
-* **Darsh Shah** - *Initial work* - [GitHub](https://github.com/iamdarshshah)
-
-## License :stop_sign:
-
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details.
-
-## :computer: Happy Coding!!! :computer:
-
-
